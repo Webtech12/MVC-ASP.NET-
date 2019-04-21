@@ -59,3 +59,10 @@ D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.IsSubbedToCustomer.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddMembershipType.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.PopulateMembershipTypes.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.ApplyAnnotationsToCustomerName.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddMembershipType1.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.ApplyAnnotationsToCustomerName1.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddNameToMembershipType.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddNameToMembershipType1.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateNameofMembershipType.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateCustomerProps.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateCustomerClass.resources
