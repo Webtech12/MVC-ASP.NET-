@@ -66,3 +66,7 @@ D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddNameToMembershipType1.resou
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateNameofMembershipType.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateCustomerProps.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdateCustomerClass.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.MoviesDBSet.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddPropsToMovie.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddGenreType.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.PopulateGenreTable.resources
