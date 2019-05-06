@@ -70,3 +70,5 @@ D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.MoviesDBSet.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddPropsToMovie.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddGenreType.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.PopulateGenreTable.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddformMovies.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.ChangePropOfCustomers.resources
