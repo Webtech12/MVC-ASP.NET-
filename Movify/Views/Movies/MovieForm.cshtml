@@ -12,6 +12,7 @@
     <div class="form-group">
         @Html.LabelFor(m => m.Movie.Name)
         @Html.TextBoxFor(m => m.Movie.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.Name)
     </div>
     <div class="form-group">
         @Html.LabelFor(m => m.Movie.ReleaseDate)
@@ -24,7 +25,15 @@
     <div class="form-group">
         @Html.LabelFor(m => m.Movie.NoInStock)
         @Html.TextBoxFor(m => m.Movie.NoInStock, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.NoInStock)
     </div>
+    @Html.AntiForgeryToken()
+    
     @Html.HiddenFor(m => m.Movie.Id)
     <button type="submit" class="btn btn-primary">Save</button>
+}
+
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
 }

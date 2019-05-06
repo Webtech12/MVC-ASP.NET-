@@ -72,3 +72,11 @@ D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddGenreType.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.PopulateGenreTable.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.AddformMovies.resources
 D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.ChangePropOfCustomers.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.UpdatingDB.resources
+D:\MVC5\Movify\Movify\obj\Debug\Movify.Migrations.ModifyingPropsOfMovie.resources
+D:\MVC5\Movify\Movify\bin\System.Net.Http.Formatting.dll
+D:\MVC5\Movify\Movify\bin\System.Web.Http.dll
+D:\MVC5\Movify\Movify\bin\System.Web.Http.WebHost.dll
+D:\MVC5\Movify\Movify\bin\System.Net.Http.Formatting.xml
+D:\MVC5\Movify\Movify\bin\System.Web.Http.xml
+D:\MVC5\Movify\Movify\bin\System.Web.Http.WebHost.xml
